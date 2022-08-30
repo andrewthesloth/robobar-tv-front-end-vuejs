@@ -1,0 +1,10 @@
+$queue-glass-width: calc(100%/6);
+$frontcolor : #ffffff;
+$background-color: #000000;
+$test-div-color: #aaaaaa;
+$in-queue-color: #00ff00;
+$drink-ready-color: #ffaa00;
+$progress-color: #9999ff;
+$side-desc-bar-width-perc: 2.5%;
+$middle-content-part-width: calc(100% - 2 * #{$side-desc-bar-width-perc});
+$middle-content-part-height: 50%;
